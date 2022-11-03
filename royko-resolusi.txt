@@ -2,6 +2,8 @@ ROYKO REOLUSI
 - Konsisten Belajar Programming.
 - Dapat Pekerjaan sembari menunggu Kuliah.
 - Saya bercita-cita untuk menjadi Front-end developer.
+  * Harus belajar React.
+  * belajar node JS.
 - Membangun Studio Desain.
 - Lulus Kuliah Tepat Waktu.
 - Bisa beli Mobil.
